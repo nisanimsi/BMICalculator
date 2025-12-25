@@ -44,3 +44,4 @@ Uygulama, Dünya Sağlık Örgütü (WHO) standartlarını kullanır:
 2. Terminal üzerinden tüm dosyaları derleyin:
    ```bash
    javac *.java
+java Main
