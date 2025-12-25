@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) {
-        // Kullanıcıdan veri almak için Scanner nesnesi oluşturulur.
+        // Kullanıcıdan veri almak için Scanner nesnesi oluşturulur
         Scanner scanner = new Scanner(System.in);
         BMICalculator calculator = new BMICalculator();
 
